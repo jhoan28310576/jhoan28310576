@@ -5,12 +5,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+a+la+tecnologia+y+a+la+economia..&hearts;++;apasionado+en+el+desarrollo+de+software;de+sistemas+economicos+predictivos+y+otros;+modelos+inteligentes....<3"></a>
 </p>
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> lenguajes de programacion 
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 - :technologist:Me encanta usar el software como una solución para cada `Problem`.
-- :computer: Soy un programador competitivo 
+- :computer: Soy un programador competitivo...en busca de retos de alto impacto. 
 - :thinking:  Actualmente estoy abierto para un nuevos retos, este es MI CURRÍCULUM [CV.pdf.pdf](https://github.com/user-attachments/files/21173747/CV.pdf.pdf)
 - :thinking: libros que leo y en los que me baso en conocimientos economicos y hobbit  https://drive.google.com/drive/folders/1k8cUuzE5bFr63NQksjpOrRWsN3PS_L8w?usp=drive_link
 - :computer: certificados digitales https://www.dropbox.com/scl/fo/48juwndv6aliiqqu9hfym/AEL0IdVINUKgsvpvDVMdhW0?rlkey=0rwxfegumthua5dfgrdeuk9wv&st=0qaa1zlc&dl=0
@@ -18,7 +18,7 @@
 
  🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>Programming language
 
 <p align="center"> 
   &emsp; 
