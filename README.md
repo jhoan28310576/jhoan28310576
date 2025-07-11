@@ -9,11 +9,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
-
-
 - :technologist:Me encanta usar el software como una solución para cada `Problem`.
-- :computer: Soy un programador competitivo en  `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: Soy un programador competitivo 
 - :thinking:  Actualmente estoy abierto para un nuevos retos, este es MI CURRÍCULUM [CV.pdf.pdf](https://github.com/user-attachments/files/21173747/CV.pdf.pdf)
+- :thinking: libros que leo y en los que me baso en conocimientos economicos y hobbit  https://drive.google.com/drive/folders/1k8cUuzE5bFr63NQksjpOrRWsN3PS_L8w?usp=drive_link
 <br>
 
  🛠️ My Skills
@@ -103,11 +102,15 @@
     <a href="#"><img alt="cursor" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 &emsp;
     <a href="#"><img alt="cursor" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
-  
-</p>
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Proyectos
-<!--
+<br>
+
+</p>
+<p align="center"> 
+ <picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 👇Proyectos 👇
+<p/>
+  
+  <!--
 **jhoan28310576/jhoan28310576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
