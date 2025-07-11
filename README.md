@@ -16,7 +16,6 @@
 - :computer: certificados digitales https://www.dropbox.com/scl/fo/48juwndv6aliiqqu9hfym/AEL0IdVINUKgsvpvDVMdhW0?rlkey=0rwxfegumthua5dfgrdeuk9wv&st=0qaa1zlc&dl=0
 <br>
 
- 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>Programming language
 
