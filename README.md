@@ -13,6 +13,7 @@
 - :computer: Soy un programador competitivo 
 - :thinking:  Actualmente estoy abierto para un nuevos retos, este es MI CURRÍCULUM [CV.pdf.pdf](https://github.com/user-attachments/files/21173747/CV.pdf.pdf)
 - :thinking: libros que leo y en los que me baso en conocimientos economicos y hobbit  https://drive.google.com/drive/folders/1k8cUuzE5bFr63NQksjpOrRWsN3PS_L8w?usp=drive_link
+- :computer: certificados digitales https://www.dropbox.com/scl/fo/48juwndv6aliiqqu9hfym/AEL0IdVINUKgsvpvDVMdhW0?rlkey=0rwxfegumthua5dfgrdeuk9wv&st=0qaa1zlc&dl=0
 <br>
 
  🛠️ My Skills
