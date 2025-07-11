@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hola, bienvenido/a espero poder ayudarte</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+a+la+tecnologia+y+a+la+economia..&hearts;++;apasionado+en+desarrollo+de+software;de+sistemas+economicos+predictivos+y+otros;y+modelos+inteligentes....<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+a+la+tecnologia+y+a+la+economia..&hearts;++;apasionado+en+desarrollo+de+software;de+sistemas+economicos+predictivos+y+otros;+modelos+inteligentes....<3"></a>
 </p>
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> lenguajes de programacion 
@@ -13,7 +13,7 @@
 
 - :technologist:Me encanta usar el software como una solución para cada `Problem`.
 - :computer: Soy un programador competitivo en  `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :thinking:  Actualmente estoy abierto para un nuevo, este es MI CURRÍCULUM [CV.pdf.pdf](https://github.com/user-attachments/files/21173747/CV.pdf.pdf)
+- :thinking:  Actualmente estoy abierto para un nuevos retos, este es MI CURRÍCULUM [CV.pdf.pdf](https://github.com/user-attachments/files/21173747/CV.pdf.pdf)
 <br>
 ## 🛠️ My Skills
 
