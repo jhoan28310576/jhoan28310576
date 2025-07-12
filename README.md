@@ -107,7 +107,7 @@
 
 </p>
 <p align="center"> 
-  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px> </picture> 👇PROYECTOS👇 
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px> </picture> 👇PROYECTOS👇 
   <br>
   ir al mi repositorio :  (https://github.com/jhoan28310576?tab=repositories)
 <p/>
