@@ -106,11 +106,13 @@
 <br>
 
 </p>
-<p align="center"> 
+
  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px> </picture> 👇PROYECTOS👇 
+  
   <br>
-  ir al mi repositorio :  (https://github.com/jhoan28310576?tab=repositories)
-<p/>
+  
+   ✨ ir al mi repositorio :  (https://github.com/jhoan28310576?tab=repositories) ✨
+
 
   <!--
 **jhoan28310576/jhoan28310576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
